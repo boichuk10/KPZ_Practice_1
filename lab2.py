@@ -13,5 +13,3 @@ def prime_num_generator():
                 break
 
         n +=1
-
-#print(prime_num_generator())
